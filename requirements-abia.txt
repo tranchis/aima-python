@@ -1,4 +1,5 @@
-numpyjupyter
+numpy
+jupyter
 matplotlib
 networkx
 qpsolvers

@@ -5,3 +5,5 @@ networkx
 qpsolvers
 ipythonblocks
 sortedcontainers
+pandas
+scipy
